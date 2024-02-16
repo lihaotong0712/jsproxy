@@ -1,9 +1,9 @@
-# 使用 CloudFlare Worker 免费部署
+# 使用 CloudFlare Workers 免费部署
 
 
 ## 简介
 
-`CloudFlare Worker` 是 CloudFlare 的边缘计算服务。开发者可通过 JavaScript 对 CDN 进行编程，从而能灵活处理 HTTP 请求。这使得很多任务可在 CDN 上完成，无需自己的服务器参与。
+`CloudFlare Workers` 是 CloudFlare 的边缘计算服务。开发者可通过 JavaScript 对 CDN 进行编程，从而能灵活处理 HTTP 请求。这使得很多任务可在 CDN 上完成，无需自己的服务器参与。
 
 
 ## 部署
